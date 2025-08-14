@@ -39,13 +39,13 @@ android {
         123456*/
 
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.dreamcast.eventapp"
+        applicationId = "com.event.igdcxdc"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = 23
         targetSdk = flutter.targetSdkVersion
-        versionCode = 59
-        versionName = "1.4.4"
+        versionCode = 1
+        versionName = "1.0.0"
     }
 
     // get keystore properties

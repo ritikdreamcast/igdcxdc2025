@@ -1,22 +1,250 @@
 {
   "project_info": {
-    "project_number": "579380204834",
-    "firebase_url": "https://dreamcast-event-app-2024-d3244-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "dreamcast-event-app-2024-d3244",
-    "storage_bucket": "dreamcast-event-app-2024-d3244.appspot.com"
+    "project_number": "940764721609",
+    "firebase_url": "https://dreamcast-event-app-7th-default-rtdb.firebaseio.com",
+    "project_id": "dreamcast-event-app-7th",
+    "storage_bucket": "dreamcast-event-app-7th.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:579380204834:android:07748c92fdcc635d2d817b",
+        "mobilesdk_app_id": "1:940764721609:android:699087f37f7a13232b7818",
         "android_client_info": {
-          "package_name": "com.dreamcast.eventapp"
+          "package_name": "com.accel.event"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyArzet3p5B5qpg5FPJX2nMkt_JmsxTIFdY"
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:475a1737aae085dd2b7818",
+        "android_client_info": {
+          "package_name": "com.dreamcast.salesforce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:2e8f85a8b63af48c2b7818",
+        "android_client_info": {
+          "package_name": "com.event.gec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:c3d9e6cad6b895092b7818",
+        "android_client_info": {
+          "package_name": "com.event.hdfcLimitless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:c79b04c43e4c6ddd2b7818",
+        "android_client_info": {
+          "package_name": "com.event.igdcxdc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:926b663e983a2f9b2b7818",
+        "android_client_info": {
+          "package_name": "com.event.msil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:cc46227622aa09c02b7818",
+        "android_client_info": {
+          "package_name": "com.event.salesforceblr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:17368027ae231c002b7818",
+        "android_client_info": {
+          "package_name": "com.event.salesforcehyd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:33a7e07d134c3e882b7818",
+        "android_client_info": {
+          "package_name": "com.event.shriramfinance25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:8b5cd4985a744bd42b7818",
+        "android_client_info": {
+          "package_name": "com.event.witt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:c7d973cf4c0835b12b7818",
+        "android_client_info": {
+          "package_name": "com.shrmiac.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:291cceedd095407e2b7818",
+        "android_client_info": {
+          "package_name": "com.shrmiac.event2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940764721609:android:71f24320c5a979e22b7818",
+        "android_client_info": {
+          "package_name": "com.world.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vYw9rvA1Xy3I5-GptNxPHKoUJZJUaik"
         }
       ],
       "services": {

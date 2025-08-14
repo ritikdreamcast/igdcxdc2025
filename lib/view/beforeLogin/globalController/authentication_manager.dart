@@ -29,7 +29,7 @@ import 'package:path_provider/path_provider.dart';
 
 class AuthenticationManager extends GetxController {
   var iosAppVersion =
-      33; // Current iOS app version, can be updated dynamically.
+      1; // Current iOS app version, can be updated dynamically.
   var _currAppVersion = ""; // Current app version, can be updated dynamically.
   get currAppVersion => _currAppVersion;
   var isAiFeature =
@@ -115,7 +115,7 @@ class AuthenticationManager extends GetxController {
     getFcmTokenFrom();
     initSharedPref();
     checkTheInternet();
-    getTheBuildVersion;
+    getTheBuildVersion();
   }
 
   // Get the current app version

@@ -3,11 +3,10 @@ class AppUrl {
   ///firebase base url config
   static String appName = "dreamcast2024";
   static const eventAppNode = "EventAppBaseUrl";
-  static String defaultNodeName = "dreamcastEventApp";
+  static String defaultNodeName = "igdcxdc2025";
 
   ///firebase database url dynamic updater from splash controller
-  static String setDataBaseUrl =
-      "https://dreamcast-event-app-2024-d3244-default-rtdb.asia-southeast1.firebasedatabase.app";
+  static String setDataBaseUrl = "https://dreamcast-event-app-7th-default-rtdb.firebaseio.com";
   static String setDefaultFirebaseNode = "stagingeventappIMC2024";
   static String setTopicName = "EVENTAPP_DREAMCAST_2024";
 
@@ -28,6 +27,7 @@ class AppUrl {
   ///its is used for the load the splash url
 
   static String chatConversation = "chat_rooms/conversations";
+  
   static String chatUsers = "chat_rooms/users";
 
   static String get splashDynamicImage => '$baseURLV1/cli/event/splash';
